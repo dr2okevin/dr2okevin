@@ -8,7 +8,9 @@ My biggest private project is Freifunk Pinneberg, an open WiFi mesh network. The
 Besides working with PHP I also like to do random stuff with Linux, I like little electronics projects like my [Geiger Counter](https://github.com/dr2okevin/esp32-geigercounter), and I'm very instrested in AI.
 I'm a logic and absolutly not a design person, so stuff I make is usally functional, but not pretty.
 
+## Open Data
+Not everything I do is code. I also like to map for OpenStreetMap ([See my edits here](https://www.openstreetmap.org/user/kevinq/history)) or take [Orthophotos](https://map.openaerialmap.org/#/9.849565029144287,53.659631954251424,15/user/67dfe0968cf61a9109555355?_k=dha89h) with my drone
+
 <p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=dr2okevin&show_icons=true&locale=en&layout=compact"
  alt="dr2okevin" /></p>
-
